@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="taxi_encoder">
+		<CBX_INST_ENTRY INSTANCE_NAME="|taxi_encoder|encoder:inst|lpm_divide:Div1" CBX_FILE_NAME="lpm_divide_j1m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|taxi_encoder|encoder:inst|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_bsl.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|taxi_encoder|encoder:inst|lpm_divide:Mod4" CBX_FILE_NAME="lpm_divide_rpl.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|taxi_encoder|encoder:inst|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_r2m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|taxi_encoder|encoder:inst|lpm_divide:Div2" CBX_FILE_NAME="lpm_divide_r2m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|taxi_encoder|encoder:inst|lpm_divide:Div4" CBX_FILE_NAME="lpm_divide_h1m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|taxi_encoder|encoder:inst|lpm_divide:Mod1" CBX_FILE_NAME="lpm_divide_bsl.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|taxi_encoder|encoder:inst|lpm_divide:Mod3" CBX_FILE_NAME="lpm_divide_rpl.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|taxi_encoder|encoder:inst|lpm_divide:Mod5" CBX_FILE_NAME="lpm_divide_npl.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|taxi_encoder|encoder:inst|lpm_divide:Div3" CBX_FILE_NAME="lpm_divide_u2m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|taxi_encoder|encoder:inst|lpm_divide:Mod2" CBX_FILE_NAME="lpm_divide_rpl.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

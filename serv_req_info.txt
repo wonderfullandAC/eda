@@ -1,0 +1,29 @@
+<internal_error>
+	<executable>quartus.exe</executable>
+	<sub_system>unknown</sub_system>
+	<file>unknown</file>
+	<line>0</line>
+	<callstack>
+	0x01d285fd: RESR_TMW + 0x285fd (?DoDataExchange@TMW_CUSTOM_DLG@@MEAAXPEAVCDataExchange@@@Z + 0x93d)
+	0x6c365c7d: mfc90 + 0x15c7d
+	0x6c364e9b: mfc90 + 0x14e9b
+	0x6c36306b: mfc90 + 0x1306b
+	0x6c363418: mfc90 + 0x13418
+	0x6c36047a: mfc90 + 0x1047a
+	0x7ffa4015e857: USER32 + 0xe857 (CallWindowProcW + 0x3f7)
+	0x7ffa4015e298: USER32 + 0xe298 (DispatchMessageW + 0x258)
+	0x6c3bdca9: mfc90 + 0x6dca9
+	0x6c3bdcda: mfc90 + 0x6dcda
+	0x6c369b5f: mfc90 + 0x19b5f
+	0x6c38f57e: mfc90 + 0x3f57e
+	0x0ba11599:
+	0xffffffffffffffff:
+	</callstack>
+	<error>Current editor: STED, RPW, RPW, GED, WED, STED</error>
+	<date>Mon Nov 28 14:05:59 2022</date>
+	<version>Quartus II 64-Bit Version 9.0 Build 132 02/25/2009 SJ Full Version</version>
+	<full_error>Access Violation at 0X0000000001D285FD
+Current editor: STED, RPW, RPW, GED, WED, STED
+Quartus II 64-Bit Version 9.0 Build 132 02/25/2009 SJ Full Version </full_error>
+</internal_error>
+

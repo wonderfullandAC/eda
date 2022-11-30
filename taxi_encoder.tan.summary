@@ -1,0 +1,36 @@
+--------------------------------------------------------------------------------------
+Timing Analyzer Summary
+--------------------------------------------------------------------------------------
+
+Type           : Worst-case tco
+Slack          : N/A
+Required Time  : None
+Actual Time    : 14.800 ns
+From           : encoder:inst|cnt[2]
+To             : dot
+From Clock     : clk6mhz
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Clock Setup: 'clk6mhz'
+Slack          : N/A
+Required Time  : None
+Actual Time    : Restricted to 125.00 MHz ( period = 8.000 ns )
+From           : encoder:inst|cnt[1]
+To             : encoder:inst|cnt[2]
+From Clock     : clk6mhz
+To Clock       : clk6mhz
+Failed Paths   : 0
+
+Type           : Total number of failed paths
+Slack          : 
+Required Time  : 
+Actual Time    : 
+From           : 
+To             : 
+From Clock     : 
+To Clock       : 
+Failed Paths   : 0
+
+--------------------------------------------------------------------------------------
+
